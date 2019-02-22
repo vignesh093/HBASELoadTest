@@ -1,4 +1,4 @@
-package com.asp.testload
+package com.hbase.testload
 
 import java.text.SimpleDateFormat
 import scala.collection.mutable.ArrayBuffer

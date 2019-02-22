@@ -1,4 +1,4 @@
-package com.asp.testload
+package com.hbase.testload
 
 import org.apache.spark.sql.SparkSession
 

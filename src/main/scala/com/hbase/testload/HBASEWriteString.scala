@@ -1,6 +1,5 @@
-package com.asp.testload
+package com.hbase.testload
 
-package com.asp.testload
 
 import java.text.SimpleDateFormat
 import scala.collection.mutable.ArrayBuffer

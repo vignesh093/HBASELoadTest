@@ -1,4 +1,4 @@
-package com.asp.testload
+package com.hbase.testload
 
 import java.io.ByteArrayOutputStream
 import java.io.DataOutputStream
